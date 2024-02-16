@@ -1,6 +1,6 @@
 # CRUD DE TAREAS CON MONGOOSE desplegar en FL0 y documentar
 
-Para este ejercicio se pide documentar la API utilizando swagger y desplegar la misma en fl0. Debemos utilizar la API de tareas que creamos en la Review 1 de la semana pasada.
+Para este ejercicio se pide documentar la API utilizando swagger y desplegar la misma en fl0. Debemos utilizar la API de tareas que creamos en la Review 2 de la semana pasada.
 
 La estructura actualizada será la siguiente:
 - docs
