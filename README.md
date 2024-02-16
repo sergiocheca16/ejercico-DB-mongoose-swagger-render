@@ -4,10 +4,10 @@ Para este ejercicio se pide documentar la API utilizando swagger y desplegar la 
 
 La estructura actualizada será la siguiente:
 - docs
-  -components.js //componentes reutilizables para la documentación
-  -basicInfo.js // información básica de la API
-  -tasks.js // documentación de los diferentes endpoints
-  -index.js // importaremos los diferentes archivos y los exportaremos
+  - components.js //componentes reutilizables para la documentación
+  - basicInfo.js // información básica de la API
+  - tasks.js // documentación de los diferentes endpoints
+  - index.js // importaremos los diferentes archivos y los exportaremos
 - config
   - config.js // Código de la conexión a la base de datos.
 - env
