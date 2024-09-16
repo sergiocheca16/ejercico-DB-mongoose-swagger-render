@@ -25,7 +25,7 @@ La estructura actualizada será la siguiente:
 - DELETE /id/:_id: Endpoint para eliminar una tarea.
 
 ## Desplegar en render
-- [https://www.fl0.com/](https://dashboard.render.com/)
+- https://dashboard.render.com/
 
 
 # PISTAS:
