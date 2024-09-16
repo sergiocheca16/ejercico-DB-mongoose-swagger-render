@@ -1,6 +1,6 @@
-# CRUD DE TAREAS CON MONGOOSE desplegar en FL0 y documentar
+# CRUD DE TAREAS CON MONGOOSE desplegar en render y documentar
 
-Para este ejercicio se pide documentar la API utilizando swagger y desplegar la misma en fl0. Debemos utilizar la API de tareas que creamos en la Review 2 de la semana pasada.
+Para este ejercicio se pide documentar la API utilizando swagger y desplegar la misma en render. Debemos utilizar la API de tareas que creamos en la Review 2 de la semana pasada.
 
 La estructura actualizada será la siguiente:
 - docs
@@ -24,8 +24,8 @@ La estructura actualizada será la siguiente:
 - PUT /id/:_id: Endpoint para actualizar una tarea y que solo se pueda cambiar el título de la tarea. Es decir, que no me deje cambiar el campo  “completed” desde este endpoint, sino solo, el título.
 - DELETE /id/:_id: Endpoint para eliminar una tarea.
 
-## Desplegar en fl0
-- https://www.fl0.com/
+## Desplegar en render
+- [https://www.fl0.com/](https://dashboard.render.com/)
 
 
 # PISTAS:
