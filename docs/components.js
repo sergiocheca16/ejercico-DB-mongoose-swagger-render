@@ -9,20 +9,15 @@ module.exports = {
                         description:"user identification number",
                         example:"6201064b0028de7866e2b2c4"
                     },
-                    username:{
+                    title:{
                         type:'string',
-                        description:"username to register",
+                        description:"title task",
                         example:"John"
                     },
-                    email:{
-                        type:'string',
-                        description:"email to register",
-                        example:"john@gmail.com"
-                    },
-                    email:{
-                        type:'string',
-                        description:"user password",
-                        example:"123456"
+                    completed:{
+                        type:'boolean',
+                        description:"task completed or not",
+                        example:"false"
                     },
                 }
             }

@@ -3,23 +3,23 @@ module.exports = {
       "/create": {
         post: {
           tags: {
-            Users: "Create a user",
+            Users: "Create a task",
           },
-          description: "Create User",
-          operationId: "createUser",
+          description: "Create Task",
+          operationId: "createTask",
           parameters: [],
           requestBody: {
             content: {
               "application/json": {
                 schema: {
-                  $ref: "#/components/schemas/User",
+                  $ref: "#/components/schemas/Task",
                 },
               },
             },
           },
           responses: {
             201: {
-              description: "User created successfully",
+              description: "Task created successfully",
             },
             500: {
               description: "Server error",
